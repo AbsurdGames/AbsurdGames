@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Unity and Python
 - 💞️ I’m looking to collaborate on Videogames
 - 📫 How to reach me absurdgamesdev@gmail.com
-- Where are two kids programing things.
+- Where are three boys named Pau Cava de las Heras, Paul Cannon Palacios and Luca Dupraz
 
 <!---
 AbsurdGames/AbsurdGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
