@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbsurdGames
 - 👀 I’m interested in videogames/software/retro stuff
 - 🌱 I’m currently learning Unity and Python
-- 💞️ I’m looking to collaborate on Videogames and pixel Art
+- 💞️ I’m looking to collaborate on Videogames and Art
 - 📫 How to reach me absurdgamesdev@gmail.com
 - Where are four boys named Pau Cava de las Heras, Paul Cannon Palacios, Luca Dupraz and Ricard Arnal
 
